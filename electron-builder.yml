@@ -1,6 +1,6 @@
 appId: 'Unible'
-productName: 'Unible'
-artifactName: '${productName}-setup-${version}.${ext}'
+productName: 'U.원피스'
+artifactName: 'Unible-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 gotiger (original author: © 2018-2024 Daniel Scalzi)'
 
