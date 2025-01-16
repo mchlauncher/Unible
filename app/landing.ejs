@@ -141,8 +141,8 @@
                         <span class="bot_label" id="landingPlayerLabel"><%- lang('landing.serverStatus') %></span>
                         <span id="player_count"><%- lang('landing.serverStatusPlaceholder') %></span>
                     </div>
-                    <div class="bot_divider"></div>
-                    <div id="mojangStatusWrapper">
+                    <div class="bot_divider" style="display: none;"></div>
+                    <div id="mojangStatusWrapper" style="display: none;">
                         <span class="bot_label"><%- lang('landing.mojangStatus') %></span>
                         <span id="mojang_status_icon">&#8226;</span>
                         <div id="mojangStatusTooltip">
@@ -162,7 +162,7 @@
                     </div>
                 </div>
                 <div id="resolutionSettingsContainer">
-                    <label for="resolutionDropdown">해상도 설정: </label>
+                    <label for="resolutionDropdown" style="font-family: 'Avenir Medium';">해상도 설정: </label>
                     <select class="settingsSelectSelected" id="resolutionDropdown">
                         <option value="1280x720">1280x720</option>
                         <option value="1920x1080">1920x1080</option>

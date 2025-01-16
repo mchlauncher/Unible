@@ -9,12 +9,12 @@
 
 @font-face {
     font-family: 'Avenir Book';
-    src: url('../fonts/Avenir-Book.ttf');
+    src: url('../fonts/HeirofLightRegular.ttf');
 }
 
 @font-face {
     font-family: 'Avenir Medium';
-    src: url('../fonts/Avenir-Medium.ttf');
+    src: url('../fonts/HeirofLightBold.ttf');
 }
 
 @font-face {
@@ -118,7 +118,7 @@ body, button {
 #frameButtonDockWin {
     -webkit-app-region: no-drag !important;
     position: relative;
-    top: -2px;
+    top: -5px;
     right: -2px;
     height: 22px;
 }
@@ -1899,10 +1899,12 @@ input:checked + .toggleSwitchSlider:before {
     position: relative;
     left: 50px;
     top: 10px;
+    font-family: 'Avenir Book';
 }
 
 #resolutionSettingsContainer > .settingsSelectSelected {
     padding: 1px;
+    font-family: 'Avenir Book';
 }
 
 /* Style the arrow inside the select element. */
