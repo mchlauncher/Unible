@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "U.원피스"
+title = "Draconia"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/Unible"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/Unible"
 supportLink = "https://github.com/mchlauncher/Unible/issues"
 
 [ejs.welcome]
-welcomeHeader = "U.원피스"
+welcomeHeader = "Draconia"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."

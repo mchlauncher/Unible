@@ -168,7 +168,7 @@ loading = "로드 중.."
 [js.landing.serverStatus]
 server = "서버"
 offline = "오프라인"
-players = "해적"
+players = "플레이어"
 
 [js.landing.systemScan]
 checking = "시스템 정보 확인 중.."
